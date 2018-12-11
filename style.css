@@ -1,0 +1,36 @@
+*{
+	text-align: right;
+}
+
+body {
+	background-image: url(background_img_luca.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: #012865;
+	text-align: center;
+	border: 5px solid rgba(44, 71, 112, 0.5);
+	cursor: pointer;
+}
+
+p {
+	color: #2C4770;
+	font-family: 'Pacifico', cursive;
+	text-align: center; 
+	border: 5px solid rgba(44, 71, 112, 0.5);
+}
+
+img {
+	float: left;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
+
